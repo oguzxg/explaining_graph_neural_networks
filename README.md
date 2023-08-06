@@ -11,8 +11,8 @@ underlying mechanisms of GNNs and provide transparent explanations for their
 predictions.
 Explaining the predictions of a Graph Neural Network is a crucial task for
 several reasons. First, interpretability is vital in many real-world applications,
-especially those with high stakes, such as healthcare, finance and law enforcement, where decision-making processes need to be transparent and justifiable.
-Second, providing explanations can enhance user trust and acceptance of GNNbased systems, allowing users to understand and verify the model’s reasoning
+especially those with high stakes, such as healthcare, finance and law enforcement, where decision-making processes need to be transparent and justifiable.
+Second, providing explanations can enhance user trust and acceptance of GNN based systems, allowing users to understand and verify the model’s reasoning
 behind its predictions. Lastly, explanations can help identify potential biases,
 limitations, or vulnerabilities in the model, driving improvements and reducing
 potential risks.
